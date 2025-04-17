@@ -1,0 +1,2 @@
+# xác định file nào không muốn git quan tâm tới
+.env
