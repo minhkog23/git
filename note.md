@@ -59,3 +59,13 @@ nếu mà clone về thì chỉ cần sử dụng
 - git add .
 - git commit -m ''
 - git push
+
+Trường hợp nếu local tạo 1 branch và đẩy local branch lên remote
+- git push -u origin dev
+
+Ngược lại
+quay về master branch
+origin là tên remote repository
+- git fetch origin
+git fetch giúp cập nhập thông tin mới (commit, nhánh ,..)
+
