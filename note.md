@@ -52,3 +52,10 @@ origin
 
 đẩy lên 
 - git push {name} {branch name}
+
+từ git lấy về 
+- git clone {link git}
+nếu mà clone về thì chỉ cần sử dụng
+- git add .
+- git commit -m ''
+- git push
